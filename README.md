@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm swordreforge (you can also call me James)!
 
-<!--
-**swordreforge/swordreforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student in China, but I'm not content with traditional full-stack technologies alone. I'm also interested in next-generation web technologies like **WebAssembly** and **Serverless**. I'm passionate about game engines that go beyond OOP, such as Bevy.
 
-Here are some ideas to get you started:
+### What I'm working on 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Learning **Rust** and experimenting with **Bevy**, one of the most popular game engines in Rust. I really love its open-source nature and its ECS-based approach to building game worlds!
+2. Learning **Go** as a simple and approachable language for building high-performance, modern servers.
+
+### Live Demos
+
+- [My Website](https://swordreforge.top/)
+- [Simple Blog](https://blog.swordreforge.top/)
+- [Bevy Narcissus](https://bevy-explore.narcissus.swordreforge.top/)
